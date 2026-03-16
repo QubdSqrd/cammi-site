@@ -50,3 +50,13 @@ a{
 .credits-container h1{
     padding: 20px;
 }
+
+.main-info{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    -webkit-text-fill-color: white;
+}
