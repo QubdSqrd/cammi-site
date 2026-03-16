@@ -38,3 +38,11 @@ a{
     flex-direction: column;
     justify-content: center;
 }
+
+.credits-container{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    font-color: white;
+    font-family: "Pixelify Sans", sans-serif;
+}
