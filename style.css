@@ -32,6 +32,9 @@ div.icon {
     align-items: center;
 }
 
-a{
+p{
     font-size: 20px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
