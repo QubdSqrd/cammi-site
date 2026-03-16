@@ -65,7 +65,7 @@ a{
 
 }
 
-main.main-info h1{
+.main-info h1{
     font-size: 40px;
     -webkit-text-stroke: 2px rgb(0, 0, 0);
     -webkit-text-fill-color: white;
