@@ -1,0 +1,37 @@
+div.container h1{
+    display: block;
+    padding-top: 0px;
+    text-align: center;
+    font-size: 80px;
+    font-family: "Pixelify Sans", sans-serif;
+    letter-spacing: 20px;
+    -webkit-text-stroke: 4px rgb(255, 47, 116);
+    -webkit-text-fill-color: white;
+}
+
+body {
+    background-color: #018281;
+}
+
+div.icon-container{
+    display: flex;
+    padding: 20%;
+    justify-content: center;
+    gap: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    -webkit-text-fill-color: white;
+}
+
+div.icon {
+
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a{
+    font-size: 20px;
+}
