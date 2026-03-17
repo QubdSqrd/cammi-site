@@ -15,7 +15,7 @@ body {
 
 div.icon-container{
     display: flex;
-    padding: 20%;
+    padding: 5%;
     justify-content: center;
     gap: 50px;
     font-family: "Pixelify Sans", sans-serif;
